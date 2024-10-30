@@ -42,7 +42,7 @@ public class MenuController : MonoBehaviour {
         cam = Camera.main;
         CharSelectCamera = cam.GetComponent<CharacterSelectionCamera>();
         LoadData();
-        if (Application.platform == RuntimePlatform.WindowsPlayer || Application.platform == RuntimePlatform.WindowsEditor)
+        if (Application.platform == RuntimePlatform.WindowsPlayer || Application.platform == RuntimePlatform.WindowsEditor || Application.platform == RuntimePlatform.WebGLPlayer)
             isOnPc = true;
         else if (Application.platform == RuntimePlatform.Android) {
             isOnPc = false;

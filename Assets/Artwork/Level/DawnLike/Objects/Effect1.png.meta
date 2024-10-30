@@ -1,46 +1,114 @@
 fileFormatVersion: 2
 guid: c17540d2793279a4a9f0a64bd4ad37d8
-timeCreated: 1545741214
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Effect1_0
-    21300002: Effect1_1
-    21300004: Effect1_2
-    21300006: Effect1_3
-    21300008: Effect1_4
-    21300010: Effect1_5
-    21300012: Effect1_6
-    21300014: Effect1_7
-    21300016: Effect1_8
-    21300018: Effect1_9
-    21300020: Effect1_10
-    21300022: Effect1_11
-    21300024: Effect1_12
-    21300026: Effect1_13
-    21300028: Effect1_14
-    21300030: Effect1_15
-    21300032: Effect1_16
-    21300034: Effect1_17
-    21300036: Effect1_18
-    21300038: Effect1_19
-    21300040: Effect1_20
-    21300042: Effect1_21
-    21300044: Effect1_22
-    21300046: Effect1_23
-    21300048: Effect1_24
-    21300050: Effect1_25
-    21300052: Effect1_26
-    21300054: Effect1_27
-    21300056: Effect1_28
-    21300058: Effect1_29
-    21300060: Effect1_30
-    21300062: Effect1_31
-    21300064: Effect1_32
-    21300066: Effect1_33
-    21300068: Effect1_34
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Effect1_0
+  - first:
+      213: 21300002
+    second: Effect1_1
+  - first:
+      213: 21300004
+    second: Effect1_2
+  - first:
+      213: 21300006
+    second: Effect1_3
+  - first:
+      213: 21300008
+    second: Effect1_4
+  - first:
+      213: 21300010
+    second: Effect1_5
+  - first:
+      213: 21300012
+    second: Effect1_6
+  - first:
+      213: 21300014
+    second: Effect1_7
+  - first:
+      213: 21300016
+    second: Effect1_8
+  - first:
+      213: 21300018
+    second: Effect1_9
+  - first:
+      213: 21300020
+    second: Effect1_10
+  - first:
+      213: 21300022
+    second: Effect1_11
+  - first:
+      213: 21300024
+    second: Effect1_12
+  - first:
+      213: 21300026
+    second: Effect1_13
+  - first:
+      213: 21300028
+    second: Effect1_14
+  - first:
+      213: 21300030
+    second: Effect1_15
+  - first:
+      213: 21300032
+    second: Effect1_16
+  - first:
+      213: 21300034
+    second: Effect1_17
+  - first:
+      213: 21300036
+    second: Effect1_18
+  - first:
+      213: 21300038
+    second: Effect1_19
+  - first:
+      213: 21300040
+    second: Effect1_20
+  - first:
+      213: 21300042
+    second: Effect1_21
+  - first:
+      213: 21300044
+    second: Effect1_22
+  - first:
+      213: 21300046
+    second: Effect1_23
+  - first:
+      213: 21300048
+    second: Effect1_24
+  - first:
+      213: 21300050
+    second: Effect1_25
+  - first:
+      213: 21300052
+    second: Effect1_26
+  - first:
+      213: 21300054
+    second: Effect1_27
+  - first:
+      213: 21300056
+    second: Effect1_28
+  - first:
+      213: 21300058
+    second: Effect1_29
+  - first:
+      213: 21300060
+    second: Effect1_30
+  - first:
+      213: 21300062
+    second: Effect1_31
+  - first:
+      213: 21300064
+    second: Effect1_32
+  - first:
+      213: 21300066
+    second: Effect1_33
+  - first:
+      213: 21300068
+    second: Effect1_34
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -58,6 +126,10 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -67,8 +139,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -80,18 +152,26 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 98
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -100,7 +180,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -109,7 +192,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: iPhone
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -118,7 +204,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Android
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -127,6 +216,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -144,6 +247,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_1
       rect:
@@ -158,6 +268,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_2
       rect:
@@ -172,6 +289,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_3
       rect:
@@ -186,6 +310,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_4
       rect:
@@ -200,6 +331,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_5
       rect:
@@ -214,6 +352,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_6
       rect:
@@ -228,6 +373,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_7
       rect:
@@ -242,6 +394,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_8
       rect:
@@ -256,6 +415,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_9
       rect:
@@ -270,6 +436,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_10
       rect:
@@ -284,6 +457,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_11
       rect:
@@ -298,6 +478,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_12
       rect:
@@ -312,6 +499,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_13
       rect:
@@ -326,6 +520,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_14
       rect:
@@ -340,6 +541,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_15
       rect:
@@ -354,6 +562,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_16
       rect:
@@ -368,6 +583,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_17
       rect:
@@ -382,6 +604,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_18
       rect:
@@ -396,6 +625,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_19
       rect:
@@ -410,6 +646,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_20
       rect:
@@ -424,6 +667,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_21
       rect:
@@ -438,6 +688,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_22
       rect:
@@ -452,6 +709,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_23
       rect:
@@ -466,6 +730,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_24
       rect:
@@ -480,6 +751,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_25
       rect:
@@ -494,6 +772,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_26
       rect:
@@ -508,6 +793,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_27
       rect:
@@ -522,6 +814,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_28
       rect:
@@ -536,6 +835,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_29
       rect:
@@ -550,6 +856,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_30
       rect:
@@ -564,6 +877,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_31
       rect:
@@ -578,6 +898,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_32
       rect:
@@ -592,6 +919,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_33
       rect:
@@ -606,6 +940,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Effect1_34
       rect:
@@ -620,9 +961,62 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Effect1_0: 21300000
+      Effect1_1: 21300002
+      Effect1_10: 21300020
+      Effect1_11: 21300022
+      Effect1_12: 21300024
+      Effect1_13: 21300026
+      Effect1_14: 21300028
+      Effect1_15: 21300030
+      Effect1_16: 21300032
+      Effect1_17: 21300034
+      Effect1_18: 21300036
+      Effect1_19: 21300038
+      Effect1_2: 21300004
+      Effect1_20: 21300040
+      Effect1_21: 21300042
+      Effect1_22: 21300044
+      Effect1_23: 21300046
+      Effect1_24: 21300048
+      Effect1_25: 21300050
+      Effect1_26: 21300052
+      Effect1_27: 21300054
+      Effect1_28: 21300056
+      Effect1_29: 21300058
+      Effect1_3: 21300006
+      Effect1_30: 21300060
+      Effect1_31: 21300062
+      Effect1_32: 21300064
+      Effect1_33: 21300066
+      Effect1_34: 21300068
+      Effect1_4: 21300008
+      Effect1_5: 21300010
+      Effect1_6: 21300012
+      Effect1_7: 21300014
+      Effect1_8: 21300016
+      Effect1_9: 21300018
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

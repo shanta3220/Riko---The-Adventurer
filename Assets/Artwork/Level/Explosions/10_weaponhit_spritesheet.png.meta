@@ -1,42 +1,102 @@
 fileFormatVersion: 2
 guid: 2eee7309f2c3f0845bc3dc1866032279
-timeCreated: 1543771382
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: 10_weaponhit_spritesheet_0
-    21300002: 10_weaponhit_spritesheet_1
-    21300004: 10_weaponhit_spritesheet_2
-    21300006: 10_weaponhit_spritesheet_3
-    21300008: 10_weaponhit_spritesheet_6
-    21300010: 10_weaponhit_spritesheet_7
-    21300012: 10_weaponhit_spritesheet_8
-    21300014: 10_weaponhit_spritesheet_9
-    21300016: 10_weaponhit_spritesheet_11
-    21300018: 10_weaponhit_spritesheet_12
-    21300020: 10_weaponhit_spritesheet_14
-    21300022: 10_weaponhit_spritesheet_15
-    21300024: 10_weaponhit_spritesheet_16
-    21300026: 10_weaponhit_spritesheet_17
-    21300028: 10_weaponhit_spritesheet_18
-    21300030: 10_weaponhit_spritesheet_20
-    21300032: 10_weaponhit_spritesheet_21
-    21300034: 10_weaponhit_spritesheet_34
-    21300036: 10_weaponhit_spritesheet_36
-    21300038: 10_weaponhit_spritesheet_37
-    21300040: 10_weaponhit_spritesheet_38
-    21300042: 10_weaponhit_spritesheet_41
-    21300044: 10_weaponhit_spritesheet_42
-    21300046: 10_weaponhit_spritesheet_43
-    21300048: 10_weaponhit_spritesheet_47
-    21300050: 10_weaponhit_spritesheet_48
-    21300052: 10_weaponhit_spritesheet_50
-    21300054: 10_weaponhit_spritesheet_52
-    21300056: 10_weaponhit_spritesheet_53
-    21300058: 10_weaponhit_spritesheet_56
-    21300060: 10_weaponhit_spritesheet_70
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 10_weaponhit_spritesheet_0
+  - first:
+      213: 21300002
+    second: 10_weaponhit_spritesheet_1
+  - first:
+      213: 21300004
+    second: 10_weaponhit_spritesheet_2
+  - first:
+      213: 21300006
+    second: 10_weaponhit_spritesheet_3
+  - first:
+      213: 21300008
+    second: 10_weaponhit_spritesheet_6
+  - first:
+      213: 21300010
+    second: 10_weaponhit_spritesheet_7
+  - first:
+      213: 21300012
+    second: 10_weaponhit_spritesheet_8
+  - first:
+      213: 21300014
+    second: 10_weaponhit_spritesheet_9
+  - first:
+      213: 21300016
+    second: 10_weaponhit_spritesheet_11
+  - first:
+      213: 21300018
+    second: 10_weaponhit_spritesheet_12
+  - first:
+      213: 21300020
+    second: 10_weaponhit_spritesheet_14
+  - first:
+      213: 21300022
+    second: 10_weaponhit_spritesheet_15
+  - first:
+      213: 21300024
+    second: 10_weaponhit_spritesheet_16
+  - first:
+      213: 21300026
+    second: 10_weaponhit_spritesheet_17
+  - first:
+      213: 21300028
+    second: 10_weaponhit_spritesheet_18
+  - first:
+      213: 21300030
+    second: 10_weaponhit_spritesheet_20
+  - first:
+      213: 21300032
+    second: 10_weaponhit_spritesheet_21
+  - first:
+      213: 21300034
+    second: 10_weaponhit_spritesheet_34
+  - first:
+      213: 21300036
+    second: 10_weaponhit_spritesheet_36
+  - first:
+      213: 21300038
+    second: 10_weaponhit_spritesheet_37
+  - first:
+      213: 21300040
+    second: 10_weaponhit_spritesheet_38
+  - first:
+      213: 21300042
+    second: 10_weaponhit_spritesheet_41
+  - first:
+      213: 21300044
+    second: 10_weaponhit_spritesheet_42
+  - first:
+      213: 21300046
+    second: 10_weaponhit_spritesheet_43
+  - first:
+      213: 21300048
+    second: 10_weaponhit_spritesheet_47
+  - first:
+      213: 21300050
+    second: 10_weaponhit_spritesheet_48
+  - first:
+      213: 21300052
+    second: 10_weaponhit_spritesheet_50
+  - first:
+      213: 21300054
+    second: 10_weaponhit_spritesheet_52
+  - first:
+      213: 21300056
+    second: 10_weaponhit_spritesheet_53
+  - first:
+      213: 21300058
+    second: 10_weaponhit_spritesheet_56
+  - first:
+      213: 21300060
+    second: 10_weaponhit_spritesheet_70
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -54,6 +114,10 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,8 +127,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -76,18 +140,26 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -96,7 +168,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -105,7 +180,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: iPhone
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -114,7 +192,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Android
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -123,6 +204,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -140,6 +235,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_1
       rect:
@@ -154,6 +256,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_2
       rect:
@@ -168,6 +277,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_3
       rect:
@@ -182,6 +298,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_6
       rect:
@@ -196,6 +319,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_7
       rect:
@@ -210,6 +340,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_8
       rect:
@@ -224,6 +361,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_9
       rect:
@@ -238,6 +382,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_11
       rect:
@@ -252,6 +403,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_12
       rect:
@@ -266,6 +424,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_14
       rect:
@@ -280,6 +445,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_15
       rect:
@@ -294,6 +466,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_16
       rect:
@@ -308,6 +487,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_17
       rect:
@@ -322,6 +508,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_18
       rect:
@@ -336,6 +529,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_20
       rect:
@@ -350,6 +550,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_21
       rect:
@@ -364,6 +571,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_34
       rect:
@@ -378,6 +592,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_36
       rect:
@@ -392,6 +613,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_37
       rect:
@@ -406,6 +634,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_38
       rect:
@@ -420,6 +655,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_41
       rect:
@@ -434,6 +676,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_42
       rect:
@@ -448,6 +697,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_43
       rect:
@@ -462,6 +718,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_47
       rect:
@@ -476,6 +739,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_48
       rect:
@@ -490,6 +760,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_50
       rect:
@@ -504,6 +781,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_52
       rect:
@@ -518,6 +802,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_53
       rect:
@@ -532,6 +823,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_56
       rect:
@@ -546,6 +844,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: 10_weaponhit_spritesheet_70
       rect:
@@ -560,9 +865,58 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      10_weaponhit_spritesheet_0: 21300000
+      10_weaponhit_spritesheet_1: 21300002
+      10_weaponhit_spritesheet_11: 21300016
+      10_weaponhit_spritesheet_12: 21300018
+      10_weaponhit_spritesheet_14: 21300020
+      10_weaponhit_spritesheet_15: 21300022
+      10_weaponhit_spritesheet_16: 21300024
+      10_weaponhit_spritesheet_17: 21300026
+      10_weaponhit_spritesheet_18: 21300028
+      10_weaponhit_spritesheet_2: 21300004
+      10_weaponhit_spritesheet_20: 21300030
+      10_weaponhit_spritesheet_21: 21300032
+      10_weaponhit_spritesheet_3: 21300006
+      10_weaponhit_spritesheet_34: 21300034
+      10_weaponhit_spritesheet_36: 21300036
+      10_weaponhit_spritesheet_37: 21300038
+      10_weaponhit_spritesheet_38: 21300040
+      10_weaponhit_spritesheet_41: 21300042
+      10_weaponhit_spritesheet_42: 21300044
+      10_weaponhit_spritesheet_43: 21300046
+      10_weaponhit_spritesheet_47: 21300048
+      10_weaponhit_spritesheet_48: 21300050
+      10_weaponhit_spritesheet_50: 21300052
+      10_weaponhit_spritesheet_52: 21300054
+      10_weaponhit_spritesheet_53: 21300056
+      10_weaponhit_spritesheet_56: 21300058
+      10_weaponhit_spritesheet_6: 21300008
+      10_weaponhit_spritesheet_7: 21300010
+      10_weaponhit_spritesheet_70: 21300060
+      10_weaponhit_spritesheet_8: 21300012
+      10_weaponhit_spritesheet_9: 21300014
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

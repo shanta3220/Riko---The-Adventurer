@@ -1,188 +1,540 @@
 fileFormatVersion: 2
 guid: f24cf792072ca3845b644a9411597cc9
-timeCreated: 1546444491
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Pit0_0
-    21300002: Pit0_1
-    21300004: Pit0_2
-    21300006: Pit0_3
-    21300008: Pit0_4
-    21300010: Pit0_5
-    21300012: Pit0_6
-    21300014: Pit0_7
-    21300016: Pit0_8
-    21300018: Pit0_9
-    21300020: Pit0_10
-    21300022: Pit0_11
-    21300024: Pit0_12
-    21300026: Pit0_13
-    21300028: Pit0_14
-    21300030: Pit0_15
-    21300032: Pit0_16
-    21300034: Pit0_17
-    21300036: Pit0_18
-    21300038: Pit0_19
-    21300040: Pit0_20
-    21300042: Pit0_21
-    21300044: Pit0_22
-    21300046: Pit0_23
-    21300048: Pit0_24
-    21300050: Pit0_25
-    21300052: Pit0_26
-    21300054: Pit0_27
-    21300056: Pit0_28
-    21300058: Pit0_29
-    21300060: Pit0_30
-    21300062: Pit0_31
-    21300064: Pit0_32
-    21300066: Pit0_33
-    21300068: Pit0_34
-    21300070: Pit0_35
-    21300072: Pit0_36
-    21300074: Pit0_37
-    21300076: Pit0_38
-    21300078: Pit0_39
-    21300080: Pit0_40
-    21300082: Pit0_41
-    21300084: Pit0_42
-    21300086: Pit0_43
-    21300088: Pit0_44
-    21300090: Pit0_45
-    21300092: Pit0_46
-    21300094: Pit0_47
-    21300096: Pit0_48
-    21300098: Pit0_49
-    21300100: Pit0_50
-    21300102: Pit0_51
-    21300104: Pit0_52
-    21300106: Pit0_53
-    21300108: Pit0_54
-    21300110: light_water_4
-    21300112: light_water_0
-    21300114: light_water_1
-    21300116: Pit0_58
-    21300118: Pit0_59
-    21300120: Pit0_60
-    21300122: Pit0_61
-    21300124: light_water_5
-    21300126: light_water_2
-    21300128: light_water_3
-    21300130: Pit0_65
-    21300132: Pit0_66
-    21300134: Pit0_67
-    21300136: Pit0_68
-    21300138: Pit0_69
-    21300140: Pit0_70
-    21300142: Pit0_71
-    21300144: Pit0_72
-    21300146: Pit0_73
-    21300148: Pit0_74
-    21300150: Pit0_75
-    21300152: Pit0_76
-    21300154: deep_water_4
-    21300156: deep_water_0
-    21300158: deep_water_1
-    21300160: Pit0_80
-    21300162: Pit0_81
-    21300164: Pit0_82
-    21300166: Pit0_83
-    21300168: deep_water_5
-    21300170: deep_water_2
-    21300172: deep_water_3
-    21300174: Pit0_87
-    21300176: Pit0_88
-    21300178: Pit0_89
-    21300180: Pit0_90
-    21300182: Pit0_91
-    21300184: Pit0_92
-    21300186: Pit0_93
-    21300188: Pit0_94
-    21300190: Pit0_95
-    21300192: Pit0_96
-    21300194: Pit0_97
-    21300196: Pit0_98
-    21300198: Pit0_99
-    21300200: Pit0_100
-    21300202: Pit0_101
-    21300204: Pit0_102
-    21300206: Pit0_103
-    21300208: Pit0_104
-    21300210: Pit0_105
-    21300212: Pit0_106
-    21300214: Pit0_107
-    21300216: Pit0_108
-    21300218: Pit0_109
-    21300220: Pit0_110
-    21300222: Pit0_111
-    21300224: Pit0_112
-    21300226: Pit0_113
-    21300228: Pit0_114
-    21300230: Pit0_115
-    21300232: Pit0_116
-    21300234: Pit0_117
-    21300236: Pit0_118
-    21300238: Pit0_119
-    21300240: Pit0_120
-    21300242: Pit0_121
-    21300244: Pit0_122
-    21300246: Pit0_123
-    21300248: Pit0_124
-    21300250: Pit0_125
-    21300252: Pit0_126
-    21300254: Pit0_127
-    21300256: Pit0_128
-    21300258: Pit0_129
-    21300260: Pit0_130
-    21300262: Pit0_131
-    21300264: Pit0_132
-    21300266: Pit0_133
-    21300268: Pit0_134
-    21300270: Pit0_135
-    21300272: Pit0_136
-    21300274: Pit0_137
-    21300276: Pit0_138
-    21300278: Pit0_139
-    21300280: Pit0_140
-    21300282: Pit0_141
-    21300284: Pit0_142
-    21300286: Lava_4
-    21300288: Lava_0
-    21300290: Lava_1
-    21300292: Pit0_146
-    21300294: Pit0_147
-    21300296: Pit0_148
-    21300298: Pit0_149
-    21300300: Lava_5
-    21300302: Lava_2
-    21300304: Lava_2
-    21300306: Pit0_153
-    21300308: water_lava_4
-    21300310: water_lava_0
-    21300312: water_lava_1
-    21300314: Pit0_157
-    21300316: Pit0_158
-    21300318: Pit0_159
-    21300320: Pit0_160
-    21300322: water_lava_5
-    21300324: water_lava_2
-    21300326: water_lava_3
-    21300328: Pit0_164
-    21300330: Pit0_165
-    21300332: Pit0_166
-    21300334: Pit0_167
-    21300336: Pit0_168
-    21300338: Pit0_169
-    21300340: Pit0_170
-    21300342: Pit0_171
-    21300344: Pit0_172
-    21300346: Pit0_173
-    21300348: Pit0_174
-    21300350: Pit0_175
-    21300352: Lava_3
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Pit0_0
+  - first:
+      213: 21300002
+    second: Pit0_1
+  - first:
+      213: 21300004
+    second: Pit0_2
+  - first:
+      213: 21300006
+    second: Pit0_3
+  - first:
+      213: 21300008
+    second: Pit0_4
+  - first:
+      213: 21300010
+    second: Pit0_5
+  - first:
+      213: 21300012
+    second: Pit0_6
+  - first:
+      213: 21300014
+    second: Pit0_7
+  - first:
+      213: 21300016
+    second: Pit0_8
+  - first:
+      213: 21300018
+    second: Pit0_9
+  - first:
+      213: 21300020
+    second: Pit0_10
+  - first:
+      213: 21300022
+    second: Pit0_11
+  - first:
+      213: 21300024
+    second: Pit0_12
+  - first:
+      213: 21300026
+    second: Pit0_13
+  - first:
+      213: 21300028
+    second: Pit0_14
+  - first:
+      213: 21300030
+    second: Pit0_15
+  - first:
+      213: 21300032
+    second: Pit0_16
+  - first:
+      213: 21300034
+    second: Pit0_17
+  - first:
+      213: 21300036
+    second: Pit0_18
+  - first:
+      213: 21300038
+    second: Pit0_19
+  - first:
+      213: 21300040
+    second: Pit0_20
+  - first:
+      213: 21300042
+    second: Pit0_21
+  - first:
+      213: 21300044
+    second: Pit0_22
+  - first:
+      213: 21300046
+    second: Pit0_23
+  - first:
+      213: 21300048
+    second: Pit0_24
+  - first:
+      213: 21300050
+    second: Pit0_25
+  - first:
+      213: 21300052
+    second: Pit0_26
+  - first:
+      213: 21300054
+    second: Pit0_27
+  - first:
+      213: 21300056
+    second: Pit0_28
+  - first:
+      213: 21300058
+    second: Pit0_29
+  - first:
+      213: 21300060
+    second: Pit0_30
+  - first:
+      213: 21300062
+    second: Pit0_31
+  - first:
+      213: 21300064
+    second: Pit0_32
+  - first:
+      213: 21300066
+    second: Pit0_33
+  - first:
+      213: 21300068
+    second: Pit0_34
+  - first:
+      213: 21300070
+    second: Pit0_35
+  - first:
+      213: 21300072
+    second: Pit0_36
+  - first:
+      213: 21300074
+    second: Pit0_37
+  - first:
+      213: 21300076
+    second: Pit0_38
+  - first:
+      213: 21300078
+    second: Pit0_39
+  - first:
+      213: 21300080
+    second: Pit0_40
+  - first:
+      213: 21300082
+    second: Pit0_41
+  - first:
+      213: 21300084
+    second: Pit0_42
+  - first:
+      213: 21300086
+    second: Pit0_43
+  - first:
+      213: 21300088
+    second: Pit0_44
+  - first:
+      213: 21300090
+    second: Pit0_45
+  - first:
+      213: 21300092
+    second: Pit0_46
+  - first:
+      213: 21300094
+    second: Pit0_47
+  - first:
+      213: 21300096
+    second: Pit0_48
+  - first:
+      213: 21300098
+    second: Pit0_49
+  - first:
+      213: 21300100
+    second: Pit0_50
+  - first:
+      213: 21300102
+    second: Pit0_51
+  - first:
+      213: 21300104
+    second: Pit0_52
+  - first:
+      213: 21300106
+    second: Pit0_53
+  - first:
+      213: 21300108
+    second: Pit0_54
+  - first:
+      213: 21300110
+    second: light_water_4
+  - first:
+      213: 21300112
+    second: light_water_0
+  - first:
+      213: 21300114
+    second: light_water_1
+  - first:
+      213: 21300116
+    second: Pit0_58
+  - first:
+      213: 21300118
+    second: Pit0_59
+  - first:
+      213: 21300120
+    second: Pit0_60
+  - first:
+      213: 21300122
+    second: Pit0_61
+  - first:
+      213: 21300124
+    second: light_water_5
+  - first:
+      213: 21300126
+    second: light_water_2
+  - first:
+      213: 21300128
+    second: light_water_3
+  - first:
+      213: 21300130
+    second: Pit0_65
+  - first:
+      213: 21300132
+    second: Pit0_66
+  - first:
+      213: 21300134
+    second: Pit0_67
+  - first:
+      213: 21300136
+    second: Pit0_68
+  - first:
+      213: 21300138
+    second: Pit0_69
+  - first:
+      213: 21300140
+    second: Pit0_70
+  - first:
+      213: 21300142
+    second: Pit0_71
+  - first:
+      213: 21300144
+    second: Pit0_72
+  - first:
+      213: 21300146
+    second: Pit0_73
+  - first:
+      213: 21300148
+    second: Pit0_74
+  - first:
+      213: 21300150
+    second: Pit0_75
+  - first:
+      213: 21300152
+    second: Pit0_76
+  - first:
+      213: 21300154
+    second: deep_water_4
+  - first:
+      213: 21300156
+    second: deep_water_0
+  - first:
+      213: 21300158
+    second: deep_water_1
+  - first:
+      213: 21300160
+    second: Pit0_80
+  - first:
+      213: 21300162
+    second: Pit0_81
+  - first:
+      213: 21300164
+    second: Pit0_82
+  - first:
+      213: 21300166
+    second: Pit0_83
+  - first:
+      213: 21300168
+    second: deep_water_5
+  - first:
+      213: 21300170
+    second: deep_water_2
+  - first:
+      213: 21300172
+    second: deep_water_3
+  - first:
+      213: 21300174
+    second: Pit0_87
+  - first:
+      213: 21300176
+    second: Pit0_88
+  - first:
+      213: 21300178
+    second: Pit0_89
+  - first:
+      213: 21300180
+    second: Pit0_90
+  - first:
+      213: 21300182
+    second: Pit0_91
+  - first:
+      213: 21300184
+    second: Pit0_92
+  - first:
+      213: 21300186
+    second: Pit0_93
+  - first:
+      213: 21300188
+    second: Pit0_94
+  - first:
+      213: 21300190
+    second: Pit0_95
+  - first:
+      213: 21300192
+    second: Pit0_96
+  - first:
+      213: 21300194
+    second: Pit0_97
+  - first:
+      213: 21300196
+    second: Pit0_98
+  - first:
+      213: 21300198
+    second: Pit0_99
+  - first:
+      213: 21300200
+    second: Pit0_100
+  - first:
+      213: 21300202
+    second: Pit0_101
+  - first:
+      213: 21300204
+    second: Pit0_102
+  - first:
+      213: 21300206
+    second: Pit0_103
+  - first:
+      213: 21300208
+    second: Pit0_104
+  - first:
+      213: 21300210
+    second: Pit0_105
+  - first:
+      213: 21300212
+    second: Pit0_106
+  - first:
+      213: 21300214
+    second: Pit0_107
+  - first:
+      213: 21300216
+    second: Pit0_108
+  - first:
+      213: 21300218
+    second: Pit0_109
+  - first:
+      213: 21300220
+    second: Pit0_110
+  - first:
+      213: 21300222
+    second: Pit0_111
+  - first:
+      213: 21300224
+    second: Pit0_112
+  - first:
+      213: 21300226
+    second: Pit0_113
+  - first:
+      213: 21300228
+    second: Pit0_114
+  - first:
+      213: 21300230
+    second: Pit0_115
+  - first:
+      213: 21300232
+    second: Pit0_116
+  - first:
+      213: 21300234
+    second: Pit0_117
+  - first:
+      213: 21300236
+    second: Pit0_118
+  - first:
+      213: 21300238
+    second: Pit0_119
+  - first:
+      213: 21300240
+    second: Pit0_120
+  - first:
+      213: 21300242
+    second: Pit0_121
+  - first:
+      213: 21300244
+    second: Pit0_122
+  - first:
+      213: 21300246
+    second: Pit0_123
+  - first:
+      213: 21300248
+    second: Pit0_124
+  - first:
+      213: 21300250
+    second: Pit0_125
+  - first:
+      213: 21300252
+    second: Pit0_126
+  - first:
+      213: 21300254
+    second: Pit0_127
+  - first:
+      213: 21300256
+    second: Pit0_128
+  - first:
+      213: 21300258
+    second: Pit0_129
+  - first:
+      213: 21300260
+    second: Pit0_130
+  - first:
+      213: 21300262
+    second: Pit0_131
+  - first:
+      213: 21300264
+    second: Pit0_132
+  - first:
+      213: 21300266
+    second: Pit0_133
+  - first:
+      213: 21300268
+    second: Pit0_134
+  - first:
+      213: 21300270
+    second: Pit0_135
+  - first:
+      213: 21300272
+    second: Pit0_136
+  - first:
+      213: 21300274
+    second: Pit0_137
+  - first:
+      213: 21300276
+    second: Pit0_138
+  - first:
+      213: 21300278
+    second: Pit0_139
+  - first:
+      213: 21300280
+    second: Pit0_140
+  - first:
+      213: 21300282
+    second: Pit0_141
+  - first:
+      213: 21300284
+    second: Pit0_142
+  - first:
+      213: 21300286
+    second: Lava_4
+  - first:
+      213: 21300288
+    second: Lava_0
+  - first:
+      213: 21300290
+    second: Lava_1
+  - first:
+      213: 21300292
+    second: Pit0_146
+  - first:
+      213: 21300294
+    second: Pit0_147
+  - first:
+      213: 21300296
+    second: Pit0_148
+  - first:
+      213: 21300298
+    second: Pit0_149
+  - first:
+      213: 21300300
+    second: Lava_5
+  - first:
+      213: 21300302
+    second: Lava_2
+  - first:
+      213: 21300304
+    second: Lava_2
+  - first:
+      213: 21300306
+    second: Pit0_153
+  - first:
+      213: 21300308
+    second: water_lava_4
+  - first:
+      213: 21300310
+    second: water_lava_0
+  - first:
+      213: 21300312
+    second: water_lava_1
+  - first:
+      213: 21300314
+    second: Pit0_157
+  - first:
+      213: 21300316
+    second: Pit0_158
+  - first:
+      213: 21300318
+    second: Pit0_159
+  - first:
+      213: 21300320
+    second: Pit0_160
+  - first:
+      213: 21300322
+    second: water_lava_5
+  - first:
+      213: 21300324
+    second: water_lava_2
+  - first:
+      213: 21300326
+    second: water_lava_3
+  - first:
+      213: 21300328
+    second: Pit0_164
+  - first:
+      213: 21300330
+    second: Pit0_165
+  - first:
+      213: 21300332
+    second: Pit0_166
+  - first:
+      213: 21300334
+    second: Pit0_167
+  - first:
+      213: 21300336
+    second: Pit0_168
+  - first:
+      213: 21300338
+    second: Pit0_169
+  - first:
+      213: 21300340
+    second: Pit0_170
+  - first:
+      213: 21300342
+    second: Pit0_171
+  - first:
+      213: 21300344
+    second: Pit0_172
+  - first:
+      213: 21300346
+    second: Pit0_173
+  - first:
+      213: 21300348
+    second: Pit0_174
+  - first:
+      213: 21300350
+    second: Pit0_175
+  - first:
+      213: 21300352
+    second: Lava_3
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -200,6 +552,10 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -209,8 +565,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -1
+    aniso: 1
+    mipBias: 0
     wrapU: 0
     wrapV: 0
     wrapW: 0
@@ -222,18 +578,26 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -242,7 +606,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -251,7 +618,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: iPhone
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -260,7 +630,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Android
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -269,6 +642,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -286,6 +673,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_10
       rect:
@@ -300,6 +694,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_44
       rect:
@@ -314,6 +715,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_45
       rect:
@@ -328,6 +736,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_46
       rect:
@@ -342,6 +757,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_47
       rect:
@@ -356,6 +778,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_48
       rect:
@@ -370,6 +799,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_49
       rect:
@@ -384,6 +820,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_50
       rect:
@@ -398,6 +841,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_51
       rect:
@@ -412,6 +862,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_52
       rect:
@@ -426,6 +883,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_53
       rect:
@@ -440,6 +904,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_54
       rect:
@@ -454,6 +925,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: light_water_4
       rect:
@@ -468,6 +946,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: light_water_0
       rect:
@@ -482,6 +967,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: light_water_1
       rect:
@@ -496,6 +988,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_58
       rect:
@@ -510,6 +1009,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_59
       rect:
@@ -524,6 +1030,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_60
       rect:
@@ -538,6 +1051,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_61
       rect:
@@ -552,6 +1072,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: light_water_5
       rect:
@@ -566,6 +1093,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: light_water_2
       rect:
@@ -580,6 +1114,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: light_water_3
       rect:
@@ -594,6 +1135,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_65
       rect:
@@ -608,6 +1156,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_66
       rect:
@@ -622,6 +1177,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_67
       rect:
@@ -636,6 +1198,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_68
       rect:
@@ -650,6 +1219,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_69
       rect:
@@ -664,6 +1240,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_70
       rect:
@@ -678,6 +1261,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_71
       rect:
@@ -692,6 +1282,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_72
       rect:
@@ -706,6 +1303,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_73
       rect:
@@ -720,6 +1324,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_74
       rect:
@@ -734,6 +1345,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_75
       rect:
@@ -748,6 +1366,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_76
       rect:
@@ -762,6 +1387,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: deep_water_4
       rect:
@@ -776,6 +1408,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: deep_water_0
       rect:
@@ -790,6 +1429,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: deep_water_1
       rect:
@@ -804,6 +1450,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_80
       rect:
@@ -818,6 +1471,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_81
       rect:
@@ -832,6 +1492,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_82
       rect:
@@ -846,6 +1513,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_83
       rect:
@@ -860,6 +1534,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: deep_water_5
       rect:
@@ -874,6 +1555,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: deep_water_2
       rect:
@@ -888,6 +1576,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: deep_water_3
       rect:
@@ -902,6 +1597,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_87
       rect:
@@ -916,6 +1618,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_88
       rect:
@@ -930,6 +1639,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_89
       rect:
@@ -944,6 +1660,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_90
       rect:
@@ -958,6 +1681,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_91
       rect:
@@ -972,6 +1702,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_92
       rect:
@@ -986,6 +1723,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_93
       rect:
@@ -1000,6 +1744,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_94
       rect:
@@ -1014,6 +1765,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_95
       rect:
@@ -1028,6 +1786,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_96
       rect:
@@ -1042,6 +1807,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_97
       rect:
@@ -1056,6 +1828,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_98
       rect:
@@ -1070,6 +1849,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_99
       rect:
@@ -1084,6 +1870,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_100
       rect:
@@ -1098,6 +1891,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_101
       rect:
@@ -1112,6 +1912,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_102
       rect:
@@ -1126,6 +1933,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_103
       rect:
@@ -1140,6 +1954,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_104
       rect:
@@ -1154,6 +1975,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_105
       rect:
@@ -1168,6 +1996,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_106
       rect:
@@ -1182,6 +2017,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_107
       rect:
@@ -1196,6 +2038,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_108
       rect:
@@ -1210,6 +2059,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_109
       rect:
@@ -1224,6 +2080,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_110
       rect:
@@ -1238,6 +2101,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_111
       rect:
@@ -1252,6 +2122,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_112
       rect:
@@ -1266,6 +2143,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_113
       rect:
@@ -1280,6 +2164,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_114
       rect:
@@ -1294,6 +2185,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_115
       rect:
@@ -1308,6 +2206,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_116
       rect:
@@ -1322,6 +2227,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_117
       rect:
@@ -1336,6 +2248,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_118
       rect:
@@ -1350,6 +2269,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_119
       rect:
@@ -1364,6 +2290,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_120
       rect:
@@ -1378,6 +2311,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_121
       rect:
@@ -1392,6 +2332,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_122
       rect:
@@ -1406,6 +2353,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_123
       rect:
@@ -1420,6 +2374,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_124
       rect:
@@ -1434,6 +2395,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_125
       rect:
@@ -1448,6 +2416,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_126
       rect:
@@ -1462,6 +2437,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_127
       rect:
@@ -1476,6 +2458,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_128
       rect:
@@ -1490,6 +2479,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_129
       rect:
@@ -1504,6 +2500,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_130
       rect:
@@ -1518,6 +2521,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_131
       rect:
@@ -1532,6 +2542,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_132
       rect:
@@ -1546,6 +2563,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_133
       rect:
@@ -1560,6 +2584,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_134
       rect:
@@ -1574,6 +2605,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_135
       rect:
@@ -1588,6 +2626,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_136
       rect:
@@ -1602,6 +2647,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_137
       rect:
@@ -1616,6 +2668,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_138
       rect:
@@ -1630,6 +2689,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_139
       rect:
@@ -1644,6 +2710,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_140
       rect:
@@ -1658,6 +2731,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_141
       rect:
@@ -1672,6 +2752,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_142
       rect:
@@ -1686,6 +2773,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lava_4
       rect:
@@ -1700,6 +2794,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lava_0
       rect:
@@ -1714,6 +2815,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lava_1
       rect:
@@ -1728,6 +2836,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_146
       rect:
@@ -1742,6 +2857,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_147
       rect:
@@ -1756,6 +2878,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_148
       rect:
@@ -1770,6 +2899,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_149
       rect:
@@ -1784,6 +2920,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lava_5
       rect:
@@ -1798,6 +2941,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lava_2
       rect:
@@ -1812,6 +2962,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Lava_3
       rect:
@@ -1826,6 +2983,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_153
       rect:
@@ -1840,6 +3004,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: water_lava_4
       rect:
@@ -1854,6 +3025,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: water_lava_0
       rect:
@@ -1868,6 +3046,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: water_lava_1
       rect:
@@ -1882,6 +3067,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_157
       rect:
@@ -1896,6 +3088,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_158
       rect:
@@ -1910,6 +3109,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_159
       rect:
@@ -1924,6 +3130,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_160
       rect:
@@ -1938,6 +3151,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: water_lava_5
       rect:
@@ -1952,6 +3172,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: water_lava_2
       rect:
@@ -1966,6 +3193,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: water_lava_3
       rect:
@@ -1980,6 +3214,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_164
       rect:
@@ -1994,6 +3235,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_165
       rect:
@@ -2008,6 +3256,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_166
       rect:
@@ -2022,6 +3277,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_167
       rect:
@@ -2036,6 +3298,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_168
       rect:
@@ -2050,6 +3319,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_169
       rect:
@@ -2064,6 +3340,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_170
       rect:
@@ -2078,6 +3361,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_171
       rect:
@@ -2092,6 +3382,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_172
       rect:
@@ -2106,6 +3403,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_173
       rect:
@@ -2120,6 +3424,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_174
       rect:
@@ -2134,6 +3445,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Pit0_175
       rect:
@@ -2148,9 +3466,161 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lava_0: 21300288
+      Lava_1: 21300290
+      Lava_2: 21300302
+      Lava_3: 21300352
+      Lava_4: 21300286
+      Lava_5: 21300300
+      Pit0_10: 21300020
+      Pit0_100: 21300200
+      Pit0_101: 21300202
+      Pit0_102: 21300204
+      Pit0_103: 21300206
+      Pit0_104: 21300208
+      Pit0_105: 21300210
+      Pit0_106: 21300212
+      Pit0_107: 21300214
+      Pit0_108: 21300216
+      Pit0_109: 21300218
+      Pit0_110: 21300220
+      Pit0_111: 21300222
+      Pit0_112: 21300224
+      Pit0_113: 21300226
+      Pit0_114: 21300228
+      Pit0_115: 21300230
+      Pit0_116: 21300232
+      Pit0_117: 21300234
+      Pit0_118: 21300236
+      Pit0_119: 21300238
+      Pit0_120: 21300240
+      Pit0_121: 21300242
+      Pit0_122: 21300244
+      Pit0_123: 21300246
+      Pit0_124: 21300248
+      Pit0_125: 21300250
+      Pit0_126: 21300252
+      Pit0_127: 21300254
+      Pit0_128: 21300256
+      Pit0_129: 21300258
+      Pit0_130: 21300260
+      Pit0_131: 21300262
+      Pit0_132: 21300264
+      Pit0_133: 21300266
+      Pit0_134: 21300268
+      Pit0_135: 21300270
+      Pit0_136: 21300272
+      Pit0_137: 21300274
+      Pit0_138: 21300276
+      Pit0_139: 21300278
+      Pit0_140: 21300280
+      Pit0_141: 21300282
+      Pit0_142: 21300284
+      Pit0_146: 21300292
+      Pit0_147: 21300294
+      Pit0_148: 21300296
+      Pit0_149: 21300298
+      Pit0_153: 21300306
+      Pit0_157: 21300314
+      Pit0_158: 21300316
+      Pit0_159: 21300318
+      Pit0_160: 21300320
+      Pit0_164: 21300328
+      Pit0_165: 21300330
+      Pit0_166: 21300332
+      Pit0_167: 21300334
+      Pit0_168: 21300336
+      Pit0_169: 21300338
+      Pit0_170: 21300340
+      Pit0_171: 21300342
+      Pit0_172: 21300344
+      Pit0_173: 21300346
+      Pit0_174: 21300348
+      Pit0_175: 21300350
+      Pit0_3: 21300006
+      Pit0_44: 21300088
+      Pit0_45: 21300090
+      Pit0_46: 21300092
+      Pit0_47: 21300094
+      Pit0_48: 21300096
+      Pit0_49: 21300098
+      Pit0_50: 21300100
+      Pit0_51: 21300102
+      Pit0_52: 21300104
+      Pit0_53: 21300106
+      Pit0_54: 21300108
+      Pit0_58: 21300116
+      Pit0_59: 21300118
+      Pit0_60: 21300120
+      Pit0_61: 21300122
+      Pit0_65: 21300130
+      Pit0_66: 21300132
+      Pit0_67: 21300134
+      Pit0_68: 21300136
+      Pit0_69: 21300138
+      Pit0_70: 21300140
+      Pit0_71: 21300142
+      Pit0_72: 21300144
+      Pit0_73: 21300146
+      Pit0_74: 21300148
+      Pit0_75: 21300150
+      Pit0_76: 21300152
+      Pit0_80: 21300160
+      Pit0_81: 21300162
+      Pit0_82: 21300164
+      Pit0_83: 21300166
+      Pit0_87: 21300174
+      Pit0_88: 21300176
+      Pit0_89: 21300178
+      Pit0_90: 21300180
+      Pit0_91: 21300182
+      Pit0_92: 21300184
+      Pit0_93: 21300186
+      Pit0_94: 21300188
+      Pit0_95: 21300190
+      Pit0_96: 21300192
+      Pit0_97: 21300194
+      Pit0_98: 21300196
+      Pit0_99: 21300198
+      deep_water_0: 21300156
+      deep_water_1: 21300158
+      deep_water_2: 21300170
+      deep_water_3: 21300172
+      deep_water_4: 21300154
+      deep_water_5: 21300168
+      light_water_0: 21300112
+      light_water_1: 21300114
+      light_water_2: 21300126
+      light_water_3: 21300128
+      light_water_4: 21300110
+      light_water_5: 21300124
+      water_lava_0: 21300310
+      water_lava_1: 21300312
+      water_lava_2: 21300324
+      water_lava_3: 21300326
+      water_lava_4: 21300308
+      water_lava_5: 21300322
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

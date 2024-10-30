@@ -7,7 +7,7 @@ using UnityEngine;
 public class EventEnableManager : MonoBehaviour {
     public GameObject HudMobile;
 	void Start () {
-        if (Application.platform == RuntimePlatform.WindowsPlayer || Application.platform == RuntimePlatform.WindowsEditor) {
+        if (Application.platform == RuntimePlatform.WindowsPlayer || Application.platform == RuntimePlatform.WindowsEditor || Application.platform == RuntimePlatform.WebGLPlayer) {
             GetComponent<EventCallerPC>().enabled = true;
             HudMobile.SetActive(false);
             GetComponent<EventCallerPC>().player.isOnPc = true;

@@ -1,46 +1,114 @@
 fileFormatVersion: 2
 guid: a7b2f93a7eda8df4f81cee786ba6fafc
-timeCreated: 1546011792
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: M484BulletCollection1_0
-    21300002: blueBullet_1
-    21300004: blueBullet_2
-    21300006: blueBullet_3
-    21300008: blue_thin_bullet
-    21300010: blue_explosion
-    21300012: green_explosion
-    21300014: red_explosion
-    21300016: yellowexplosion
-    21300018: blue_bullet_2
-    21300020: redshooteffect3
-    21300022: red_bullet
-    21300024: green_thin_bullet
-    21300026: orange_circularbullet
-    21300028: yellow_bullet
-    21300030: green_bullet
-    21300032: green_bullet2
-    21300034: white_bullet
-    21300036: black_bullet
-    21300038: pink_bullet1
-    21300040: pink_bullet2
-    21300042: pink_bullet3
-    21300044: redshooteffect
-    21300046: greenshooteffect
-    21300048: yellowshooteffect
-    21300050: yellowshooteffect2
-    21300052: blueshooteffect
-    21300054: yellow_redexplosion
-    21300056: redwhite
-    21300058: green_shoot_effect2
-    21300060: redshotoeffect2
-    21300062: yellow_shoot_effect2
-    21300064: red_starshooteffect2
-    21300066: red_starshooteffect1
-    21300068: red_starshooteffect0
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: M484BulletCollection1_0
+  - first:
+      213: 21300002
+    second: blueBullet_1
+  - first:
+      213: 21300004
+    second: blueBullet_2
+  - first:
+      213: 21300006
+    second: blueBullet_3
+  - first:
+      213: 21300008
+    second: blue_thin_bullet
+  - first:
+      213: 21300010
+    second: blue_explosion
+  - first:
+      213: 21300012
+    second: green_explosion
+  - first:
+      213: 21300014
+    second: red_explosion
+  - first:
+      213: 21300016
+    second: yellowexplosion
+  - first:
+      213: 21300018
+    second: blue_bullet_2
+  - first:
+      213: 21300020
+    second: redshooteffect3
+  - first:
+      213: 21300022
+    second: red_bullet
+  - first:
+      213: 21300024
+    second: green_thin_bullet
+  - first:
+      213: 21300026
+    second: orange_circularbullet
+  - first:
+      213: 21300028
+    second: yellow_bullet
+  - first:
+      213: 21300030
+    second: green_bullet
+  - first:
+      213: 21300032
+    second: green_bullet2
+  - first:
+      213: 21300034
+    second: white_bullet
+  - first:
+      213: 21300036
+    second: black_bullet
+  - first:
+      213: 21300038
+    second: pink_bullet1
+  - first:
+      213: 21300040
+    second: pink_bullet2
+  - first:
+      213: 21300042
+    second: pink_bullet3
+  - first:
+      213: 21300044
+    second: redshooteffect
+  - first:
+      213: 21300046
+    second: greenshooteffect
+  - first:
+      213: 21300048
+    second: yellowshooteffect
+  - first:
+      213: 21300050
+    second: yellowshooteffect2
+  - first:
+      213: 21300052
+    second: blueshooteffect
+  - first:
+      213: 21300054
+    second: yellow_redexplosion
+  - first:
+      213: 21300056
+    second: redwhite
+  - first:
+      213: 21300058
+    second: green_shoot_effect2
+  - first:
+      213: 21300060
+    second: redshotoeffect2
+  - first:
+      213: 21300062
+    second: yellow_shoot_effect2
+  - first:
+      213: 21300064
+    second: red_starshooteffect2
+  - first:
+      213: 21300066
+    second: red_starshooteffect1
+  - first:
+      213: 21300068
+    second: red_starshooteffect0
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -58,6 +126,10 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -67,8 +139,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -80,18 +152,26 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -100,7 +180,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -109,7 +192,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: iPhone
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -118,7 +204,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Android
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -127,6 +216,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -144,6 +247,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: blueBullet_1
       rect:
@@ -158,6 +268,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: blueBullet_2
       rect:
@@ -172,6 +289,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: blueBullet_3
       rect:
@@ -186,6 +310,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: blue_thin_bullet
       rect:
@@ -200,6 +331,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: blue_explosion
       rect:
@@ -214,6 +352,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: green_explosion
       rect:
@@ -228,6 +373,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: red_explosion
       rect:
@@ -242,6 +394,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yellowexplosion
       rect:
@@ -256,6 +415,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: blue_bullet_2
       rect:
@@ -270,6 +436,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: redshooteffect3
       rect:
@@ -284,6 +457,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: red_bullet
       rect:
@@ -298,6 +478,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: green_thin_bullet
       rect:
@@ -312,6 +499,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: orange_circularbullet
       rect:
@@ -326,6 +520,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yellow_bullet
       rect:
@@ -340,6 +541,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: green_bullet
       rect:
@@ -354,6 +562,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: green_bullet2
       rect:
@@ -368,6 +583,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: white_bullet
       rect:
@@ -382,6 +604,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: black_bullet
       rect:
@@ -396,6 +625,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: pink_bullet1
       rect:
@@ -410,6 +646,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: pink_bullet2
       rect:
@@ -424,6 +667,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: pink_bullet3
       rect:
@@ -438,6 +688,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: redshooteffect
       rect:
@@ -452,6 +709,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: greenshooteffect
       rect:
@@ -466,6 +730,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yellowshooteffect
       rect:
@@ -480,6 +751,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yellowshooteffect2
       rect:
@@ -494,6 +772,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: blueshooteffect
       rect:
@@ -508,6 +793,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yellow_redexplosion
       rect:
@@ -522,6 +814,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: redwhite
       rect:
@@ -536,6 +835,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: green_shoot_effect2
       rect:
@@ -550,6 +856,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: redshotoeffect2
       rect:
@@ -564,6 +877,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: yellow_shoot_effect2
       rect:
@@ -578,6 +898,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: red_starshooteffect2
       rect:
@@ -592,6 +919,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: red_starshooteffect1
       rect:
@@ -606,6 +940,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: red_starshooteffect0
       rect:
@@ -620,9 +961,62 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      M484BulletCollection1_0: 21300000
+      black_bullet: 21300036
+      blueBullet_1: 21300002
+      blueBullet_2: 21300004
+      blueBullet_3: 21300006
+      blue_bullet_2: 21300018
+      blue_explosion: 21300010
+      blue_thin_bullet: 21300008
+      blueshooteffect: 21300052
+      green_bullet: 21300030
+      green_bullet2: 21300032
+      green_explosion: 21300012
+      green_shoot_effect2: 21300058
+      green_thin_bullet: 21300024
+      greenshooteffect: 21300046
+      orange_circularbullet: 21300026
+      pink_bullet1: 21300038
+      pink_bullet2: 21300040
+      pink_bullet3: 21300042
+      red_bullet: 21300022
+      red_explosion: 21300014
+      red_starshooteffect0: 21300068
+      red_starshooteffect1: 21300066
+      red_starshooteffect2: 21300064
+      redshooteffect: 21300044
+      redshooteffect3: 21300020
+      redshotoeffect2: 21300060
+      redwhite: 21300056
+      white_bullet: 21300034
+      yellow_bullet: 21300028
+      yellow_redexplosion: 21300054
+      yellow_shoot_effect2: 21300062
+      yellowexplosion: 21300016
+      yellowshooteffect: 21300048
+      yellowshooteffect2: 21300050
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

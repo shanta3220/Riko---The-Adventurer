@@ -1,6 +1,8 @@
 using UnityEngine;
 using System;
 using UnityEngine.UI;
+using System.Runtime.InteropServices;
+
 [Serializable]
 public class UI {
     public Animator notificationAnimator;
@@ -15,6 +17,9 @@ public class UI {
 }
 
 public class MenuController : MonoBehaviour {
+    [DllImport("__Internal")]
+    private static extern void Quit(string userName, int score);
+
     public GameData data;
     public UI ui;
     public CharacterSelectionPlayer[] characterSelectPlayer;
@@ -227,6 +232,8 @@ public class MenuController : MonoBehaviour {
     }
 
     public void QuitGame() {
+        Quit("Shanta", data.experience);
+
         Application.Quit();
     }
 

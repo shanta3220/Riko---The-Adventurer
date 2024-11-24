@@ -1,8 +1,13 @@
 ﻿using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using UnityEngine;
 using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
+    [DllImport("__Internal")]
+    private static extern void GameOver(string userName, int score);
+    [DllImport("__Internal")]
+    private static extern void SetScore(string userName, int score);
 
     //Resources
     public List<Sprite> playerSprites;
@@ -173,6 +178,12 @@ public class GameManager : MonoBehaviour
         }
         return false;
     }
+
+    public void GameOver() {
+        deathMenuAnimator.SetTrigger("Show");
+        GameOver("shanta", data.experience);
+    }
+
     //checking collected weapons, if weapon is collected then give it a ID
     public Weapon CheckWeapons(int dataWepID, int newID) {
         Weapon temp = weaponContainer.GetChild(dataWepID).GetComponent<Weapon>();
@@ -222,6 +233,7 @@ public class GameManager : MonoBehaviour
         experience += xp;
         if (currentLevel < GetCurrentLevel())
             OnLevelUp();
+        SetScore("Shanta", experience);
     }
 
     public void OnLevelUp() {
@@ -265,6 +277,7 @@ public class GameManager : MonoBehaviour
         data.weaponSelected = weapon.weaponID;
         data.weaponLevel[weapon.weaponID] = weapon.weaponLevel;
         DataController.instance.SaveData(data);
+
     }
 
     // Load data
